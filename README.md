@@ -1,2 +1,5 @@
-# ZZQ-MoUniLR
-Official implementation of ZZQ-MoUniLR. Code coming soon.
+ZZQ-MoUniLR
+
+This repository will host the source code and documentation for ZZQ-MoUniLR.
+
+Status: The source code and documentation are being prepared and will be released soon.
